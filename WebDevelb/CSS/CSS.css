@@ -1,0 +1,56 @@
+body
+{
+     background-color: #B1C1C0;
+}
+.first
+{
+font-family: Tahoma;
+background-color: dimgrey;
+width: 65%;
+text-align: left;
+padding: 20px 40px 50px 50px;
+margin: 50px 0px 50px 0px;
+border-radius: 25px 100px 0px 0px;
+}
+.word1
+{
+    font-size: 18px;
+    line-height: 1.5;
+}
+.tilt
+{
+    font-size: 36px;
+}
+.second
+{
+   font-family: fantasy;
+   background-color:rgb(252, 252, 137);
+   width: 75%;
+   padding: 0px 10px 10px 10px;
+   margin: 20px; 
+}
+.pic01
+{
+    background-color: tomato;
+    width: 100%;
+    height: 400px;
+    background-image: url(../Image/01.jpg);
+    background-size: contain;                                                                               
+    border-radius: 20px;
+    background-position: center;
+    margin-top: 60px;
+}
+.pic02
+{
+    background-color: yellow;
+    width: 100%;
+    height: 800px;
+    background-image: url(../Image/02.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+
+a
+{
+    color: #000;
+}
